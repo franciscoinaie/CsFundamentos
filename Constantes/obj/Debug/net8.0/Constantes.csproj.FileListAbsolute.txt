@@ -1,0 +1,14 @@
+S:\curso\CsFundamentos1\Constantes\bin\Debug\net8.0\Constantes.exe
+S:\curso\CsFundamentos1\Constantes\bin\Debug\net8.0\Constantes.deps.json
+S:\curso\CsFundamentos1\Constantes\bin\Debug\net8.0\Constantes.runtimeconfig.json
+S:\curso\CsFundamentos1\Constantes\bin\Debug\net8.0\Constantes.dll
+S:\curso\CsFundamentos1\Constantes\bin\Debug\net8.0\Constantes.pdb
+S:\curso\CsFundamentos1\Constantes\obj\Debug\net8.0\Constantes.GeneratedMSBuildEditorConfig.editorconfig
+S:\curso\CsFundamentos1\Constantes\obj\Debug\net8.0\Constantes.AssemblyInfoInputs.cache
+S:\curso\CsFundamentos1\Constantes\obj\Debug\net8.0\Constantes.AssemblyInfo.cs
+S:\curso\CsFundamentos1\Constantes\obj\Debug\net8.0\Constantes.csproj.CoreCompileInputs.cache
+S:\curso\CsFundamentos1\Constantes\obj\Debug\net8.0\Constantes.dll
+S:\curso\CsFundamentos1\Constantes\obj\Debug\net8.0\refint\Constantes.dll
+S:\curso\CsFundamentos1\Constantes\obj\Debug\net8.0\Constantes.pdb
+S:\curso\CsFundamentos1\Constantes\obj\Debug\net8.0\Constantes.genruntimeconfig.cache
+S:\curso\CsFundamentos1\Constantes\obj\Debug\net8.0\ref\Constantes.dll

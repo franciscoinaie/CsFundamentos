@@ -1,0 +1,14 @@
+S:\curso\CsFundamentos1\TiposDeDados6\bin\Debug\net8.0\TiposDeDados6.exe
+S:\curso\CsFundamentos1\TiposDeDados6\bin\Debug\net8.0\TiposDeDados6.deps.json
+S:\curso\CsFundamentos1\TiposDeDados6\bin\Debug\net8.0\TiposDeDados6.runtimeconfig.json
+S:\curso\CsFundamentos1\TiposDeDados6\bin\Debug\net8.0\TiposDeDados6.dll
+S:\curso\CsFundamentos1\TiposDeDados6\bin\Debug\net8.0\TiposDeDados6.pdb
+S:\curso\CsFundamentos1\TiposDeDados6\obj\Debug\net8.0\TiposDeDados6.GeneratedMSBuildEditorConfig.editorconfig
+S:\curso\CsFundamentos1\TiposDeDados6\obj\Debug\net8.0\TiposDeDados6.AssemblyInfoInputs.cache
+S:\curso\CsFundamentos1\TiposDeDados6\obj\Debug\net8.0\TiposDeDados6.AssemblyInfo.cs
+S:\curso\CsFundamentos1\TiposDeDados6\obj\Debug\net8.0\TiposDeDados6.csproj.CoreCompileInputs.cache
+S:\curso\CsFundamentos1\TiposDeDados6\obj\Debug\net8.0\TiposDeDados6.dll
+S:\curso\CsFundamentos1\TiposDeDados6\obj\Debug\net8.0\refint\TiposDeDados6.dll
+S:\curso\CsFundamentos1\TiposDeDados6\obj\Debug\net8.0\TiposDeDados6.pdb
+S:\curso\CsFundamentos1\TiposDeDados6\obj\Debug\net8.0\TiposDeDados6.genruntimeconfig.cache
+S:\curso\CsFundamentos1\TiposDeDados6\obj\Debug\net8.0\ref\TiposDeDados6.dll

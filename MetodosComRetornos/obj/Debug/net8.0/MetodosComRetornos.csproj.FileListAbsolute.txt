@@ -1,0 +1,14 @@
+S:\curso\CsFundamentos1\MetodosComRetornos\bin\Debug\net8.0\MetodosComRetornos.exe
+S:\curso\CsFundamentos1\MetodosComRetornos\bin\Debug\net8.0\MetodosComRetornos.deps.json
+S:\curso\CsFundamentos1\MetodosComRetornos\bin\Debug\net8.0\MetodosComRetornos.runtimeconfig.json
+S:\curso\CsFundamentos1\MetodosComRetornos\bin\Debug\net8.0\MetodosComRetornos.dll
+S:\curso\CsFundamentos1\MetodosComRetornos\bin\Debug\net8.0\MetodosComRetornos.pdb
+S:\curso\CsFundamentos1\MetodosComRetornos\obj\Debug\net8.0\MetodosComRetornos.GeneratedMSBuildEditorConfig.editorconfig
+S:\curso\CsFundamentos1\MetodosComRetornos\obj\Debug\net8.0\MetodosComRetornos.AssemblyInfoInputs.cache
+S:\curso\CsFundamentos1\MetodosComRetornos\obj\Debug\net8.0\MetodosComRetornos.AssemblyInfo.cs
+S:\curso\CsFundamentos1\MetodosComRetornos\obj\Debug\net8.0\MetodosComRetornos.csproj.CoreCompileInputs.cache
+S:\curso\CsFundamentos1\MetodosComRetornos\obj\Debug\net8.0\MetodosComRetornos.dll
+S:\curso\CsFundamentos1\MetodosComRetornos\obj\Debug\net8.0\refint\MetodosComRetornos.dll
+S:\curso\CsFundamentos1\MetodosComRetornos\obj\Debug\net8.0\MetodosComRetornos.pdb
+S:\curso\CsFundamentos1\MetodosComRetornos\obj\Debug\net8.0\MetodosComRetornos.genruntimeconfig.cache
+S:\curso\CsFundamentos1\MetodosComRetornos\obj\Debug\net8.0\ref\MetodosComRetornos.dll

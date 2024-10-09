@@ -1,0 +1,14 @@
+S:\curso\CsFundamentos1\MetodoEstatico\bin\Debug\net8.0\MetodoEstatico.exe
+S:\curso\CsFundamentos1\MetodoEstatico\bin\Debug\net8.0\MetodoEstatico.deps.json
+S:\curso\CsFundamentos1\MetodoEstatico\bin\Debug\net8.0\MetodoEstatico.runtimeconfig.json
+S:\curso\CsFundamentos1\MetodoEstatico\bin\Debug\net8.0\MetodoEstatico.dll
+S:\curso\CsFundamentos1\MetodoEstatico\bin\Debug\net8.0\MetodoEstatico.pdb
+S:\curso\CsFundamentos1\MetodoEstatico\obj\Debug\net8.0\MetodoEstatico.GeneratedMSBuildEditorConfig.editorconfig
+S:\curso\CsFundamentos1\MetodoEstatico\obj\Debug\net8.0\MetodoEstatico.AssemblyInfoInputs.cache
+S:\curso\CsFundamentos1\MetodoEstatico\obj\Debug\net8.0\MetodoEstatico.AssemblyInfo.cs
+S:\curso\CsFundamentos1\MetodoEstatico\obj\Debug\net8.0\MetodoEstatico.csproj.CoreCompileInputs.cache
+S:\curso\CsFundamentos1\MetodoEstatico\obj\Debug\net8.0\MetodoEstatico.dll
+S:\curso\CsFundamentos1\MetodoEstatico\obj\Debug\net8.0\refint\MetodoEstatico.dll
+S:\curso\CsFundamentos1\MetodoEstatico\obj\Debug\net8.0\MetodoEstatico.pdb
+S:\curso\CsFundamentos1\MetodoEstatico\obj\Debug\net8.0\MetodoEstatico.genruntimeconfig.cache
+S:\curso\CsFundamentos1\MetodoEstatico\obj\Debug\net8.0\ref\MetodoEstatico.dll

@@ -1,0 +1,14 @@
+S:\curso\CsFundamentos1\Construtores\bin\Debug\net8.0\Construtores.exe
+S:\curso\CsFundamentos1\Construtores\bin\Debug\net8.0\Construtores.deps.json
+S:\curso\CsFundamentos1\Construtores\bin\Debug\net8.0\Construtores.runtimeconfig.json
+S:\curso\CsFundamentos1\Construtores\bin\Debug\net8.0\Construtores.dll
+S:\curso\CsFundamentos1\Construtores\bin\Debug\net8.0\Construtores.pdb
+S:\curso\CsFundamentos1\Construtores\obj\Debug\net8.0\Construtores.GeneratedMSBuildEditorConfig.editorconfig
+S:\curso\CsFundamentos1\Construtores\obj\Debug\net8.0\Construtores.AssemblyInfoInputs.cache
+S:\curso\CsFundamentos1\Construtores\obj\Debug\net8.0\Construtores.AssemblyInfo.cs
+S:\curso\CsFundamentos1\Construtores\obj\Debug\net8.0\Construtores.csproj.CoreCompileInputs.cache
+S:\curso\CsFundamentos1\Construtores\obj\Debug\net8.0\Construtores.dll
+S:\curso\CsFundamentos1\Construtores\obj\Debug\net8.0\refint\Construtores.dll
+S:\curso\CsFundamentos1\Construtores\obj\Debug\net8.0\Construtores.pdb
+S:\curso\CsFundamentos1\Construtores\obj\Debug\net8.0\Construtores.genruntimeconfig.cache
+S:\curso\CsFundamentos1\Construtores\obj\Debug\net8.0\ref\Construtores.dll

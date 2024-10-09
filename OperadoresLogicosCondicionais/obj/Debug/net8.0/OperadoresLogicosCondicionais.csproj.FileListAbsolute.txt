@@ -1,0 +1,14 @@
+S:\curso\CsFundamentos1\OperadoresLogicosCondicionais\bin\Debug\net8.0\OperadoresLogicosCondicionais.exe
+S:\curso\CsFundamentos1\OperadoresLogicosCondicionais\bin\Debug\net8.0\OperadoresLogicosCondicionais.deps.json
+S:\curso\CsFundamentos1\OperadoresLogicosCondicionais\bin\Debug\net8.0\OperadoresLogicosCondicionais.runtimeconfig.json
+S:\curso\CsFundamentos1\OperadoresLogicosCondicionais\bin\Debug\net8.0\OperadoresLogicosCondicionais.dll
+S:\curso\CsFundamentos1\OperadoresLogicosCondicionais\bin\Debug\net8.0\OperadoresLogicosCondicionais.pdb
+S:\curso\CsFundamentos1\OperadoresLogicosCondicionais\obj\Debug\net8.0\OperadoresLogicosCondicionais.GeneratedMSBuildEditorConfig.editorconfig
+S:\curso\CsFundamentos1\OperadoresLogicosCondicionais\obj\Debug\net8.0\OperadoresLogicosCondicionais.AssemblyInfoInputs.cache
+S:\curso\CsFundamentos1\OperadoresLogicosCondicionais\obj\Debug\net8.0\OperadoresLogicosCondicionais.AssemblyInfo.cs
+S:\curso\CsFundamentos1\OperadoresLogicosCondicionais\obj\Debug\net8.0\OperadoresLogicosCondicionais.csproj.CoreCompileInputs.cache
+S:\curso\CsFundamentos1\OperadoresLogicosCondicionais\obj\Debug\net8.0\OperadoresLogicosCondicionais.dll
+S:\curso\CsFundamentos1\OperadoresLogicosCondicionais\obj\Debug\net8.0\refint\OperadoresLogicosCondicionais.dll
+S:\curso\CsFundamentos1\OperadoresLogicosCondicionais\obj\Debug\net8.0\OperadoresLogicosCondicionais.pdb
+S:\curso\CsFundamentos1\OperadoresLogicosCondicionais\obj\Debug\net8.0\OperadoresLogicosCondicionais.genruntimeconfig.cache
+S:\curso\CsFundamentos1\OperadoresLogicosCondicionais\obj\Debug\net8.0\ref\OperadoresLogicosCondicionais.dll

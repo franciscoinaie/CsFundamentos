@@ -1,0 +1,14 @@
+S:\curso\CsFundamentos1\Repeticao_for\bin\Debug\net8.0\Repeticao_for.exe
+S:\curso\CsFundamentos1\Repeticao_for\bin\Debug\net8.0\Repeticao_for.deps.json
+S:\curso\CsFundamentos1\Repeticao_for\bin\Debug\net8.0\Repeticao_for.runtimeconfig.json
+S:\curso\CsFundamentos1\Repeticao_for\bin\Debug\net8.0\Repeticao_for.dll
+S:\curso\CsFundamentos1\Repeticao_for\bin\Debug\net8.0\Repeticao_for.pdb
+S:\curso\CsFundamentos1\Repeticao_for\obj\Debug\net8.0\Repeticao_for.GeneratedMSBuildEditorConfig.editorconfig
+S:\curso\CsFundamentos1\Repeticao_for\obj\Debug\net8.0\Repeticao_for.AssemblyInfoInputs.cache
+S:\curso\CsFundamentos1\Repeticao_for\obj\Debug\net8.0\Repeticao_for.AssemblyInfo.cs
+S:\curso\CsFundamentos1\Repeticao_for\obj\Debug\net8.0\Repeticao_for.csproj.CoreCompileInputs.cache
+S:\curso\CsFundamentos1\Repeticao_for\obj\Debug\net8.0\Repeticao_for.dll
+S:\curso\CsFundamentos1\Repeticao_for\obj\Debug\net8.0\refint\Repeticao_for.dll
+S:\curso\CsFundamentos1\Repeticao_for\obj\Debug\net8.0\Repeticao_for.pdb
+S:\curso\CsFundamentos1\Repeticao_for\obj\Debug\net8.0\Repeticao_for.genruntimeconfig.cache
+S:\curso\CsFundamentos1\Repeticao_for\obj\Debug\net8.0\ref\Repeticao_for.dll

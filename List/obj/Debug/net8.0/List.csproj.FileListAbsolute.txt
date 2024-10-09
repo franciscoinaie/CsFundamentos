@@ -1,0 +1,14 @@
+S:\curso\CsFundamentos1\List\bin\Debug\net8.0\List.exe
+S:\curso\CsFundamentos1\List\bin\Debug\net8.0\List.deps.json
+S:\curso\CsFundamentos1\List\bin\Debug\net8.0\List.runtimeconfig.json
+S:\curso\CsFundamentos1\List\bin\Debug\net8.0\List.dll
+S:\curso\CsFundamentos1\List\bin\Debug\net8.0\List.pdb
+S:\curso\CsFundamentos1\List\obj\Debug\net8.0\List.GeneratedMSBuildEditorConfig.editorconfig
+S:\curso\CsFundamentos1\List\obj\Debug\net8.0\List.AssemblyInfoInputs.cache
+S:\curso\CsFundamentos1\List\obj\Debug\net8.0\List.AssemblyInfo.cs
+S:\curso\CsFundamentos1\List\obj\Debug\net8.0\List.csproj.CoreCompileInputs.cache
+S:\curso\CsFundamentos1\List\obj\Debug\net8.0\List.dll
+S:\curso\CsFundamentos1\List\obj\Debug\net8.0\refint\List.dll
+S:\curso\CsFundamentos1\List\obj\Debug\net8.0\List.pdb
+S:\curso\CsFundamentos1\List\obj\Debug\net8.0\List.genruntimeconfig.cache
+S:\curso\CsFundamentos1\List\obj\Debug\net8.0\ref\List.dll

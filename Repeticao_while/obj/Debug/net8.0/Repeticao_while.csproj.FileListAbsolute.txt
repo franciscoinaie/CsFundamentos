@@ -1,0 +1,14 @@
+S:\curso\CsFundamentos1\Repeticao_while\bin\Debug\net8.0\Repeticao_while.exe
+S:\curso\CsFundamentos1\Repeticao_while\bin\Debug\net8.0\Repeticao_while.deps.json
+S:\curso\CsFundamentos1\Repeticao_while\bin\Debug\net8.0\Repeticao_while.runtimeconfig.json
+S:\curso\CsFundamentos1\Repeticao_while\bin\Debug\net8.0\Repeticao_while.dll
+S:\curso\CsFundamentos1\Repeticao_while\bin\Debug\net8.0\Repeticao_while.pdb
+S:\curso\CsFundamentos1\Repeticao_while\obj\Debug\net8.0\Repeticao_while.GeneratedMSBuildEditorConfig.editorconfig
+S:\curso\CsFundamentos1\Repeticao_while\obj\Debug\net8.0\Repeticao_while.AssemblyInfoInputs.cache
+S:\curso\CsFundamentos1\Repeticao_while\obj\Debug\net8.0\Repeticao_while.AssemblyInfo.cs
+S:\curso\CsFundamentos1\Repeticao_while\obj\Debug\net8.0\Repeticao_while.csproj.CoreCompileInputs.cache
+S:\curso\CsFundamentos1\Repeticao_while\obj\Debug\net8.0\Repeticao_while.dll
+S:\curso\CsFundamentos1\Repeticao_while\obj\Debug\net8.0\refint\Repeticao_while.dll
+S:\curso\CsFundamentos1\Repeticao_while\obj\Debug\net8.0\Repeticao_while.pdb
+S:\curso\CsFundamentos1\Repeticao_while\obj\Debug\net8.0\Repeticao_while.genruntimeconfig.cache
+S:\curso\CsFundamentos1\Repeticao_while\obj\Debug\net8.0\ref\Repeticao_while.dll

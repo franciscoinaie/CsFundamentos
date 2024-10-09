@@ -1,0 +1,14 @@
+S:\curso\CsFundamentos1\EstruturaDeControle4\bin\Debug\net8.0\EstruturaDeControle4.exe
+S:\curso\CsFundamentos1\EstruturaDeControle4\bin\Debug\net8.0\EstruturaDeControle4.deps.json
+S:\curso\CsFundamentos1\EstruturaDeControle4\bin\Debug\net8.0\EstruturaDeControle4.runtimeconfig.json
+S:\curso\CsFundamentos1\EstruturaDeControle4\bin\Debug\net8.0\EstruturaDeControle4.dll
+S:\curso\CsFundamentos1\EstruturaDeControle4\bin\Debug\net8.0\EstruturaDeControle4.pdb
+S:\curso\CsFundamentos1\EstruturaDeControle4\obj\Debug\net8.0\EstruturaDeControle4.GeneratedMSBuildEditorConfig.editorconfig
+S:\curso\CsFundamentos1\EstruturaDeControle4\obj\Debug\net8.0\EstruturaDeControle4.AssemblyInfoInputs.cache
+S:\curso\CsFundamentos1\EstruturaDeControle4\obj\Debug\net8.0\EstruturaDeControle4.AssemblyInfo.cs
+S:\curso\CsFundamentos1\EstruturaDeControle4\obj\Debug\net8.0\EstruturaDeControle4.csproj.CoreCompileInputs.cache
+S:\curso\CsFundamentos1\EstruturaDeControle4\obj\Debug\net8.0\EstruturaDeControle4.dll
+S:\curso\CsFundamentos1\EstruturaDeControle4\obj\Debug\net8.0\refint\EstruturaDeControle4.dll
+S:\curso\CsFundamentos1\EstruturaDeControle4\obj\Debug\net8.0\EstruturaDeControle4.pdb
+S:\curso\CsFundamentos1\EstruturaDeControle4\obj\Debug\net8.0\EstruturaDeControle4.genruntimeconfig.cache
+S:\curso\CsFundamentos1\EstruturaDeControle4\obj\Debug\net8.0\ref\EstruturaDeControle4.dll

@@ -1,0 +1,14 @@
+S:\curso\CsFundamentos1\Constantes1\obj\Debug\net8.0\Constantes1.GeneratedMSBuildEditorConfig.editorconfig
+S:\curso\CsFundamentos1\Constantes1\obj\Debug\net8.0\Constantes1.AssemblyInfoInputs.cache
+S:\curso\CsFundamentos1\Constantes1\obj\Debug\net8.0\Constantes1.AssemblyInfo.cs
+S:\curso\CsFundamentos1\Constantes1\obj\Debug\net8.0\Constantes1.csproj.CoreCompileInputs.cache
+S:\curso\CsFundamentos1\Constantes1\bin\Debug\net8.0\Constantes1.exe
+S:\curso\CsFundamentos1\Constantes1\bin\Debug\net8.0\Constantes1.deps.json
+S:\curso\CsFundamentos1\Constantes1\bin\Debug\net8.0\Constantes1.runtimeconfig.json
+S:\curso\CsFundamentos1\Constantes1\bin\Debug\net8.0\Constantes1.dll
+S:\curso\CsFundamentos1\Constantes1\bin\Debug\net8.0\Constantes1.pdb
+S:\curso\CsFundamentos1\Constantes1\obj\Debug\net8.0\Constantes1.dll
+S:\curso\CsFundamentos1\Constantes1\obj\Debug\net8.0\refint\Constantes1.dll
+S:\curso\CsFundamentos1\Constantes1\obj\Debug\net8.0\Constantes1.pdb
+S:\curso\CsFundamentos1\Constantes1\obj\Debug\net8.0\Constantes1.genruntimeconfig.cache
+S:\curso\CsFundamentos1\Constantes1\obj\Debug\net8.0\ref\Constantes1.dll

@@ -1,0 +1,14 @@
+S:\curso\CsFundamentos1\ExerciciosArrays\bin\Debug\net8.0\ExerciciosArrays.exe
+S:\curso\CsFundamentos1\ExerciciosArrays\bin\Debug\net8.0\ExerciciosArrays.deps.json
+S:\curso\CsFundamentos1\ExerciciosArrays\bin\Debug\net8.0\ExerciciosArrays.runtimeconfig.json
+S:\curso\CsFundamentos1\ExerciciosArrays\bin\Debug\net8.0\ExerciciosArrays.dll
+S:\curso\CsFundamentos1\ExerciciosArrays\bin\Debug\net8.0\ExerciciosArrays.pdb
+S:\curso\CsFundamentos1\ExerciciosArrays\obj\Debug\net8.0\ExerciciosArrays.GeneratedMSBuildEditorConfig.editorconfig
+S:\curso\CsFundamentos1\ExerciciosArrays\obj\Debug\net8.0\ExerciciosArrays.AssemblyInfoInputs.cache
+S:\curso\CsFundamentos1\ExerciciosArrays\obj\Debug\net8.0\ExerciciosArrays.AssemblyInfo.cs
+S:\curso\CsFundamentos1\ExerciciosArrays\obj\Debug\net8.0\ExerciciosArrays.csproj.CoreCompileInputs.cache
+S:\curso\CsFundamentos1\ExerciciosArrays\obj\Debug\net8.0\ExerciciosArrays.dll
+S:\curso\CsFundamentos1\ExerciciosArrays\obj\Debug\net8.0\refint\ExerciciosArrays.dll
+S:\curso\CsFundamentos1\ExerciciosArrays\obj\Debug\net8.0\ExerciciosArrays.pdb
+S:\curso\CsFundamentos1\ExerciciosArrays\obj\Debug\net8.0\ExerciciosArrays.genruntimeconfig.cache
+S:\curso\CsFundamentos1\ExerciciosArrays\obj\Debug\net8.0\ref\ExerciciosArrays.dll

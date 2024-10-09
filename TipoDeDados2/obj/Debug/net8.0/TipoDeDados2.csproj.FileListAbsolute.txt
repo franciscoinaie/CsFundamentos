@@ -1,0 +1,14 @@
+S:\curso\CsFundamentos1\TipoDeDados2\bin\Debug\net8.0\TipoDeDados2.exe
+S:\curso\CsFundamentos1\TipoDeDados2\bin\Debug\net8.0\TipoDeDados2.deps.json
+S:\curso\CsFundamentos1\TipoDeDados2\bin\Debug\net8.0\TipoDeDados2.runtimeconfig.json
+S:\curso\CsFundamentos1\TipoDeDados2\bin\Debug\net8.0\TipoDeDados2.dll
+S:\curso\CsFundamentos1\TipoDeDados2\bin\Debug\net8.0\TipoDeDados2.pdb
+S:\curso\CsFundamentos1\TipoDeDados2\obj\Debug\net8.0\TipoDeDados2.GeneratedMSBuildEditorConfig.editorconfig
+S:\curso\CsFundamentos1\TipoDeDados2\obj\Debug\net8.0\TipoDeDados2.AssemblyInfoInputs.cache
+S:\curso\CsFundamentos1\TipoDeDados2\obj\Debug\net8.0\TipoDeDados2.AssemblyInfo.cs
+S:\curso\CsFundamentos1\TipoDeDados2\obj\Debug\net8.0\TipoDeDados2.csproj.CoreCompileInputs.cache
+S:\curso\CsFundamentos1\TipoDeDados2\obj\Debug\net8.0\TipoDeDados2.dll
+S:\curso\CsFundamentos1\TipoDeDados2\obj\Debug\net8.0\refint\TipoDeDados2.dll
+S:\curso\CsFundamentos1\TipoDeDados2\obj\Debug\net8.0\TipoDeDados2.pdb
+S:\curso\CsFundamentos1\TipoDeDados2\obj\Debug\net8.0\TipoDeDados2.genruntimeconfig.cache
+S:\curso\CsFundamentos1\TipoDeDados2\obj\Debug\net8.0\ref\TipoDeDados2.dll

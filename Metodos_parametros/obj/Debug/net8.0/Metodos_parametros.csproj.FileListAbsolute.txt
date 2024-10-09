@@ -1,0 +1,14 @@
+S:\curso\CsFundamentos1\Metodos_parametros\bin\Debug\net8.0\Metodos_parametros.exe
+S:\curso\CsFundamentos1\Metodos_parametros\bin\Debug\net8.0\Metodos_parametros.deps.json
+S:\curso\CsFundamentos1\Metodos_parametros\bin\Debug\net8.0\Metodos_parametros.runtimeconfig.json
+S:\curso\CsFundamentos1\Metodos_parametros\bin\Debug\net8.0\Metodos_parametros.dll
+S:\curso\CsFundamentos1\Metodos_parametros\bin\Debug\net8.0\Metodos_parametros.pdb
+S:\curso\CsFundamentos1\Metodos_parametros\obj\Debug\net8.0\Metodos_parametros.GeneratedMSBuildEditorConfig.editorconfig
+S:\curso\CsFundamentos1\Metodos_parametros\obj\Debug\net8.0\Metodos_parametros.AssemblyInfoInputs.cache
+S:\curso\CsFundamentos1\Metodos_parametros\obj\Debug\net8.0\Metodos_parametros.AssemblyInfo.cs
+S:\curso\CsFundamentos1\Metodos_parametros\obj\Debug\net8.0\Metodos_parametros.csproj.CoreCompileInputs.cache
+S:\curso\CsFundamentos1\Metodos_parametros\obj\Debug\net8.0\Metodos_parametros.dll
+S:\curso\CsFundamentos1\Metodos_parametros\obj\Debug\net8.0\refint\Metodos_parametros.dll
+S:\curso\CsFundamentos1\Metodos_parametros\obj\Debug\net8.0\Metodos_parametros.pdb
+S:\curso\CsFundamentos1\Metodos_parametros\obj\Debug\net8.0\Metodos_parametros.genruntimeconfig.cache
+S:\curso\CsFundamentos1\Metodos_parametros\obj\Debug\net8.0\ref\Metodos_parametros.dll

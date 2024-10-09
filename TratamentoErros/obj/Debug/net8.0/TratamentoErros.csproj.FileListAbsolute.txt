@@ -1,0 +1,14 @@
+S:\curso\CsFundamentos1\TratamentoErros\bin\Debug\net8.0\TratamentoErros.exe
+S:\curso\CsFundamentos1\TratamentoErros\bin\Debug\net8.0\TratamentoErros.deps.json
+S:\curso\CsFundamentos1\TratamentoErros\bin\Debug\net8.0\TratamentoErros.runtimeconfig.json
+S:\curso\CsFundamentos1\TratamentoErros\bin\Debug\net8.0\TratamentoErros.dll
+S:\curso\CsFundamentos1\TratamentoErros\bin\Debug\net8.0\TratamentoErros.pdb
+S:\curso\CsFundamentos1\TratamentoErros\obj\Debug\net8.0\TratamentoErros.GeneratedMSBuildEditorConfig.editorconfig
+S:\curso\CsFundamentos1\TratamentoErros\obj\Debug\net8.0\TratamentoErros.AssemblyInfoInputs.cache
+S:\curso\CsFundamentos1\TratamentoErros\obj\Debug\net8.0\TratamentoErros.AssemblyInfo.cs
+S:\curso\CsFundamentos1\TratamentoErros\obj\Debug\net8.0\TratamentoErros.csproj.CoreCompileInputs.cache
+S:\curso\CsFundamentos1\TratamentoErros\obj\Debug\net8.0\TratamentoErros.dll
+S:\curso\CsFundamentos1\TratamentoErros\obj\Debug\net8.0\refint\TratamentoErros.dll
+S:\curso\CsFundamentos1\TratamentoErros\obj\Debug\net8.0\TratamentoErros.pdb
+S:\curso\CsFundamentos1\TratamentoErros\obj\Debug\net8.0\TratamentoErros.genruntimeconfig.cache
+S:\curso\CsFundamentos1\TratamentoErros\obj\Debug\net8.0\ref\TratamentoErros.dll

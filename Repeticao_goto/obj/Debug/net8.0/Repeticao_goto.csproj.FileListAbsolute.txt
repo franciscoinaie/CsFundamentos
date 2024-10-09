@@ -1,0 +1,14 @@
+S:\curso\CsFundamentos1\Repeticao_goto\bin\Debug\net8.0\Repeticao_goto.exe
+S:\curso\CsFundamentos1\Repeticao_goto\bin\Debug\net8.0\Repeticao_goto.deps.json
+S:\curso\CsFundamentos1\Repeticao_goto\bin\Debug\net8.0\Repeticao_goto.runtimeconfig.json
+S:\curso\CsFundamentos1\Repeticao_goto\bin\Debug\net8.0\Repeticao_goto.dll
+S:\curso\CsFundamentos1\Repeticao_goto\bin\Debug\net8.0\Repeticao_goto.pdb
+S:\curso\CsFundamentos1\Repeticao_goto\obj\Debug\net8.0\Repeticao_goto.GeneratedMSBuildEditorConfig.editorconfig
+S:\curso\CsFundamentos1\Repeticao_goto\obj\Debug\net8.0\Repeticao_goto.AssemblyInfoInputs.cache
+S:\curso\CsFundamentos1\Repeticao_goto\obj\Debug\net8.0\Repeticao_goto.AssemblyInfo.cs
+S:\curso\CsFundamentos1\Repeticao_goto\obj\Debug\net8.0\Repeticao_goto.csproj.CoreCompileInputs.cache
+S:\curso\CsFundamentos1\Repeticao_goto\obj\Debug\net8.0\Repeticao_goto.dll
+S:\curso\CsFundamentos1\Repeticao_goto\obj\Debug\net8.0\refint\Repeticao_goto.dll
+S:\curso\CsFundamentos1\Repeticao_goto\obj\Debug\net8.0\Repeticao_goto.pdb
+S:\curso\CsFundamentos1\Repeticao_goto\obj\Debug\net8.0\Repeticao_goto.genruntimeconfig.cache
+S:\curso\CsFundamentos1\Repeticao_goto\obj\Debug\net8.0\ref\Repeticao_goto.dll

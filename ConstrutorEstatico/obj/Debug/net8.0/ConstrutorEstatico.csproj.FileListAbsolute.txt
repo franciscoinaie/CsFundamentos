@@ -1,0 +1,14 @@
+S:\curso\CsFundamentos1\ConstrutorEstatico\bin\Debug\net8.0\ConstrutorEstatico.exe
+S:\curso\CsFundamentos1\ConstrutorEstatico\bin\Debug\net8.0\ConstrutorEstatico.deps.json
+S:\curso\CsFundamentos1\ConstrutorEstatico\bin\Debug\net8.0\ConstrutorEstatico.runtimeconfig.json
+S:\curso\CsFundamentos1\ConstrutorEstatico\bin\Debug\net8.0\ConstrutorEstatico.dll
+S:\curso\CsFundamentos1\ConstrutorEstatico\bin\Debug\net8.0\ConstrutorEstatico.pdb
+S:\curso\CsFundamentos1\ConstrutorEstatico\obj\Debug\net8.0\ConstrutorEstatico.GeneratedMSBuildEditorConfig.editorconfig
+S:\curso\CsFundamentos1\ConstrutorEstatico\obj\Debug\net8.0\ConstrutorEstatico.AssemblyInfoInputs.cache
+S:\curso\CsFundamentos1\ConstrutorEstatico\obj\Debug\net8.0\ConstrutorEstatico.AssemblyInfo.cs
+S:\curso\CsFundamentos1\ConstrutorEstatico\obj\Debug\net8.0\ConstrutorEstatico.csproj.CoreCompileInputs.cache
+S:\curso\CsFundamentos1\ConstrutorEstatico\obj\Debug\net8.0\ConstrutorEstatico.dll
+S:\curso\CsFundamentos1\ConstrutorEstatico\obj\Debug\net8.0\refint\ConstrutorEstatico.dll
+S:\curso\CsFundamentos1\ConstrutorEstatico\obj\Debug\net8.0\ConstrutorEstatico.pdb
+S:\curso\CsFundamentos1\ConstrutorEstatico\obj\Debug\net8.0\ConstrutorEstatico.genruntimeconfig.cache
+S:\curso\CsFundamentos1\ConstrutorEstatico\obj\Debug\net8.0\ref\ConstrutorEstatico.dll

@@ -1,0 +1,14 @@
+S:\curso\CsFundamentos1\PassandoArgumentosPorValor\bin\Debug\net8.0\PassandoArgumentosPorValor.exe
+S:\curso\CsFundamentos1\PassandoArgumentosPorValor\bin\Debug\net8.0\PassandoArgumentosPorValor.deps.json
+S:\curso\CsFundamentos1\PassandoArgumentosPorValor\bin\Debug\net8.0\PassandoArgumentosPorValor.runtimeconfig.json
+S:\curso\CsFundamentos1\PassandoArgumentosPorValor\bin\Debug\net8.0\PassandoArgumentosPorValor.dll
+S:\curso\CsFundamentos1\PassandoArgumentosPorValor\bin\Debug\net8.0\PassandoArgumentosPorValor.pdb
+S:\curso\CsFundamentos1\PassandoArgumentosPorValor\obj\Debug\net8.0\PassandoArgumentosPorValor.GeneratedMSBuildEditorConfig.editorconfig
+S:\curso\CsFundamentos1\PassandoArgumentosPorValor\obj\Debug\net8.0\PassandoArgumentosPorValor.AssemblyInfoInputs.cache
+S:\curso\CsFundamentos1\PassandoArgumentosPorValor\obj\Debug\net8.0\PassandoArgumentosPorValor.AssemblyInfo.cs
+S:\curso\CsFundamentos1\PassandoArgumentosPorValor\obj\Debug\net8.0\PassandoArgumentosPorValor.csproj.CoreCompileInputs.cache
+S:\curso\CsFundamentos1\PassandoArgumentosPorValor\obj\Debug\net8.0\PassandoArgumentosPorValor.dll
+S:\curso\CsFundamentos1\PassandoArgumentosPorValor\obj\Debug\net8.0\refint\PassandoArgumentosPorValor.dll
+S:\curso\CsFundamentos1\PassandoArgumentosPorValor\obj\Debug\net8.0\PassandoArgumentosPorValor.pdb
+S:\curso\CsFundamentos1\PassandoArgumentosPorValor\obj\Debug\net8.0\PassandoArgumentosPorValor.genruntimeconfig.cache
+S:\curso\CsFundamentos1\PassandoArgumentosPorValor\obj\Debug\net8.0\ref\PassandoArgumentosPorValor.dll

@@ -1,0 +1,14 @@
+S:\curso\CsFundamentos1\1Arrays\bin\Debug\net8.0\1Arrays.exe
+S:\curso\CsFundamentos1\1Arrays\bin\Debug\net8.0\1Arrays.deps.json
+S:\curso\CsFundamentos1\1Arrays\bin\Debug\net8.0\1Arrays.runtimeconfig.json
+S:\curso\CsFundamentos1\1Arrays\bin\Debug\net8.0\1Arrays.dll
+S:\curso\CsFundamentos1\1Arrays\bin\Debug\net8.0\1Arrays.pdb
+S:\curso\CsFundamentos1\1Arrays\obj\Debug\net8.0\1Arrays.GeneratedMSBuildEditorConfig.editorconfig
+S:\curso\CsFundamentos1\1Arrays\obj\Debug\net8.0\1Arrays.AssemblyInfoInputs.cache
+S:\curso\CsFundamentos1\1Arrays\obj\Debug\net8.0\1Arrays.AssemblyInfo.cs
+S:\curso\CsFundamentos1\1Arrays\obj\Debug\net8.0\1Arrays.csproj.CoreCompileInputs.cache
+S:\curso\CsFundamentos1\1Arrays\obj\Debug\net8.0\1Arrays.dll
+S:\curso\CsFundamentos1\1Arrays\obj\Debug\net8.0\refint\1Arrays.dll
+S:\curso\CsFundamentos1\1Arrays\obj\Debug\net8.0\1Arrays.pdb
+S:\curso\CsFundamentos1\1Arrays\obj\Debug\net8.0\1Arrays.genruntimeconfig.cache
+S:\curso\CsFundamentos1\1Arrays\obj\Debug\net8.0\ref\1Arrays.dll

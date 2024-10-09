@@ -1,0 +1,14 @@
+S:\curso\CsFundamentos1\OperadoresIncrementoDecremento\bin\Debug\net8.0\OperadoresIncrementoDecremento.exe
+S:\curso\CsFundamentos1\OperadoresIncrementoDecremento\bin\Debug\net8.0\OperadoresIncrementoDecremento.deps.json
+S:\curso\CsFundamentos1\OperadoresIncrementoDecremento\bin\Debug\net8.0\OperadoresIncrementoDecremento.runtimeconfig.json
+S:\curso\CsFundamentos1\OperadoresIncrementoDecremento\bin\Debug\net8.0\OperadoresIncrementoDecremento.dll
+S:\curso\CsFundamentos1\OperadoresIncrementoDecremento\bin\Debug\net8.0\OperadoresIncrementoDecremento.pdb
+S:\curso\CsFundamentos1\OperadoresIncrementoDecremento\obj\Debug\net8.0\OperadoresIncrementoDecremento.GeneratedMSBuildEditorConfig.editorconfig
+S:\curso\CsFundamentos1\OperadoresIncrementoDecremento\obj\Debug\net8.0\OperadoresIncrementoDecremento.AssemblyInfoInputs.cache
+S:\curso\CsFundamentos1\OperadoresIncrementoDecremento\obj\Debug\net8.0\OperadoresIncrementoDecremento.AssemblyInfo.cs
+S:\curso\CsFundamentos1\OperadoresIncrementoDecremento\obj\Debug\net8.0\OperadoresIncrementoDecremento.csproj.CoreCompileInputs.cache
+S:\curso\CsFundamentos1\OperadoresIncrementoDecremento\obj\Debug\net8.0\OperadoresIncrementoDecremento.dll
+S:\curso\CsFundamentos1\OperadoresIncrementoDecremento\obj\Debug\net8.0\refint\OperadoresIncrementoDecremento.dll
+S:\curso\CsFundamentos1\OperadoresIncrementoDecremento\obj\Debug\net8.0\OperadoresIncrementoDecremento.pdb
+S:\curso\CsFundamentos1\OperadoresIncrementoDecremento\obj\Debug\net8.0\OperadoresIncrementoDecremento.genruntimeconfig.cache
+S:\curso\CsFundamentos1\OperadoresIncrementoDecremento\obj\Debug\net8.0\ref\OperadoresIncrementoDecremento.dll
