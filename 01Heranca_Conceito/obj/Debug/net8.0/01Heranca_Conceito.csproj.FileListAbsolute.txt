@@ -1,0 +1,15 @@
+S:\curso\CsFundamentos1\01Heranca_Conceito\bin\Debug\net8.0\01Heranca_Conceito.exe
+S:\curso\CsFundamentos1\01Heranca_Conceito\bin\Debug\net8.0\01Heranca_Conceito.deps.json
+S:\curso\CsFundamentos1\01Heranca_Conceito\bin\Debug\net8.0\01Heranca_Conceito.runtimeconfig.json
+S:\curso\CsFundamentos1\01Heranca_Conceito\bin\Debug\net8.0\01Heranca_Conceito.dll
+S:\curso\CsFundamentos1\01Heranca_Conceito\bin\Debug\net8.0\01Heranca_Conceito.pdb
+S:\curso\CsFundamentos1\01Heranca_Conceito\obj\Debug\net8.0\01Heranca_Conceito.GeneratedMSBuildEditorConfig.editorconfig
+S:\curso\CsFundamentos1\01Heranca_Conceito\obj\Debug\net8.0\01Heranca_Conceito.AssemblyInfoInputs.cache
+S:\curso\CsFundamentos1\01Heranca_Conceito\obj\Debug\net8.0\01Heranca_Conceito.AssemblyInfo.cs
+S:\curso\CsFundamentos1\01Heranca_Conceito\obj\Debug\net8.0\01Heranca_Conceito.csproj.CoreCompileInputs.cache
+S:\curso\CsFundamentos1\01Heranca_Conceito\obj\Debug\net8.0\01Heranca_Conceito.sourcelink.json
+S:\curso\CsFundamentos1\01Heranca_Conceito\obj\Debug\net8.0\01Heranca_Conceito.dll
+S:\curso\CsFundamentos1\01Heranca_Conceito\obj\Debug\net8.0\refint\01Heranca_Conceito.dll
+S:\curso\CsFundamentos1\01Heranca_Conceito\obj\Debug\net8.0\01Heranca_Conceito.pdb
+S:\curso\CsFundamentos1\01Heranca_Conceito\obj\Debug\net8.0\01Heranca_Conceito.genruntimeconfig.cache
+S:\curso\CsFundamentos1\01Heranca_Conceito\obj\Debug\net8.0\ref\01Heranca_Conceito.dll

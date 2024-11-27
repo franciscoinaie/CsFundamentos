@@ -3,64 +3,20 @@
   "WorkspaceRootPath": "S:\\curso\\CsFundamentos1\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{912AE85F-6AC7-4942-A861-E3F865662C25}|List\\List.csproj|s:\\curso\\csfundamentos1\\list\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{912AE85F-6AC7-4942-A861-E3F865662C25}|List\\List.csproj|solutionrelative:list\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{57C828A4-8F4B-47EE-97D4-89F1BFE6DC5F}|Exercicio_Contas\\Exercicio_Contas.csproj|s:\\curso\\csfundamentos1\\exercicio_contas\\containvestimento.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{57C828A4-8F4B-47EE-97D4-89F1BFE6DC5F}|Exercicio_Contas\\Exercicio_Contas.csproj|solutionrelative:exercicio_contas\\containvestimento.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{4643C19E-3D17-4F43-BB7B-F0BC89D80597}|ArrayList\\ArrayList.csproj|s:\\curso\\csfundamentos1\\arraylist\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{4643C19E-3D17-4F43-BB7B-F0BC89D80597}|ArrayList\\ArrayList.csproj|solutionrelative:arraylist\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{57C828A4-8F4B-47EE-97D4-89F1BFE6DC5F}|Exercicio_Contas\\Exercicio_Contas.csproj|s:\\curso\\csfundamentos1\\exercicio_contas\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{57C828A4-8F4B-47EE-97D4-89F1BFE6DC5F}|Exercicio_Contas\\Exercicio_Contas.csproj|solutionrelative:exercicio_contas\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{02B380C2-0A82-4B6F-87EC-6D3E4F6745BA}|ClasseMetodos\\ClasseMetodos.csproj|s:\\curso\\csfundamentos1\\classemetodos\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{02B380C2-0A82-4B6F-87EC-6D3E4F6745BA}|ClasseMetodos\\ClasseMetodos.csproj|solutionrelative:classemetodos\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{57C828A4-8F4B-47EE-97D4-89F1BFE6DC5F}|Exercicio_Contas\\Exercicio_Contas.csproj|s:\\curso\\csfundamentos1\\exercicio_contas\\conta.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{57C828A4-8F4B-47EE-97D4-89F1BFE6DC5F}|Exercicio_Contas\\Exercicio_Contas.csproj|solutionrelative:exercicio_contas\\conta.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A2AC2E5B-1545-436A-BE7D-6C9EFEE871F6}|Constantes1\\Constantes1.csproj|s:\\curso\\csfundamentos1\\constantes1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A2AC2E5B-1545-436A-BE7D-6C9EFEE871F6}|Constantes1\\Constantes1.csproj|solutionrelative:constantes1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{8D8BCEA6-97EC-4306-A3A9-05A82188A6A0}|ExerciciosArrays\\ExerciciosArrays.csproj|s:\\curso\\csfundamentos1\\exerciciosarrays\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{8D8BCEA6-97EC-4306-A3A9-05A82188A6A0}|ExerciciosArrays\\ExerciciosArrays.csproj|solutionrelative:exerciciosarrays\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A174B89A-B3DF-4D5A-A6C3-A7D3FACFD40B}|ExercicioArry\\ExercicioArry.csproj|s:\\curso\\csfundamentos1\\exercicioarry\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A174B89A-B3DF-4D5A-A6C3-A7D3FACFD40B}|ExercicioArry\\ExercicioArry.csproj|solutionrelative:exercicioarry\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{445A5832-3040-4A69-81CA-5752F62021A3}|ArraysBidemensionais\\ArraysBidemensionais.csproj|s:\\curso\\csfundamentos1\\arraysbidemensionais\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{445A5832-3040-4A69-81CA-5752F62021A3}|ArraysBidemensionais\\ArraysBidemensionais.csproj|solutionrelative:arraysbidemensionais\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{583C3E0A-FAD0-4FB4-ACD0-F7AD7975DCA7}|Arrays\\Arrays.csproj|s:\\curso\\csfundamentos1\\arrays\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{583C3E0A-FAD0-4FB4-ACD0-F7AD7975DCA7}|Arrays\\Arrays.csproj|solutionrelative:arrays\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{EBD35A1B-A005-4102-A8C4-452877F21397}|1Arrays\\1Arrays.csproj|s:\\curso\\csfundamentos1\\1arrays\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{EBD35A1B-A005-4102-A8C4-452877F21397}|1Arrays\\1Arrays.csproj|solutionrelative:1arrays\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{B04B36AD-E720-4FE4-B9FE-BD886B096534}|PartialClass\\PartialClass.csproj|s:\\curso\\csfundamentos1\\partialclass\\minhapartialclass.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{B04B36AD-E720-4FE4-B9FE-BD886B096534}|PartialClass\\PartialClass.csproj|solutionrelative:partialclass\\minhapartialclass.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{533DB4B8-F5FD-4CC6-B249-4AF34E7E56D7}|18Enumeration\\18Enumeration.csproj|s:\\curso\\csfundamentos1\\18enumeration\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{533DB4B8-F5FD-4CC6-B249-4AF34E7E56D7}|18Enumeration\\18Enumeration.csproj|solutionrelative:18enumeration\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{B04B36AD-E720-4FE4-B9FE-BD886B096534}|PartialClass\\PartialClass.csproj|s:\\curso\\csfundamentos1\\partialclass\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{B04B36AD-E720-4FE4-B9FE-BD886B096534}|PartialClass\\PartialClass.csproj|solutionrelative:partialclass\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{B04B36AD-E720-4FE4-B9FE-BD886B096534}|PartialClass\\PartialClass.csproj|s:\\curso\\csfundamentos1\\partialclass\\minhapartialclassprops.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{B04B36AD-E720-4FE4-B9FE-BD886B096534}|PartialClass\\PartialClass.csproj|solutionrelative:partialclass\\minhapartialclassprops.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{BDBEB366-471E-44F9-80FC-7B193AA98EED}|TratamentoErros\\TratamentoErros.csproj|s:\\curso\\csfundamentos1\\tratamentoerros\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{BDBEB366-471E-44F9-80FC-7B193AA98EED}|TratamentoErros\\TratamentoErros.csproj|solutionrelative:tratamentoerros\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{24DF64DC-2F2F-456B-8D27-917EAA99A0A8}|Struct\\Struct.csproj|s:\\curso\\csfundamentos1\\struct\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{24DF64DC-2F2F-456B-8D27-917EAA99A0A8}|Struct\\Struct.csproj|solutionrelative:struct\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{57C828A4-8F4B-47EE-97D4-89F1BFE6DC5F}|Exercicio_Contas\\Exercicio_Contas.csproj|s:\\curso\\csfundamentos1\\exercicio_contas\\contapoupanca.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{57C828A4-8F4B-47EE-97D4-89F1BFE6DC5F}|Exercicio_Contas\\Exercicio_Contas.csproj|solutionrelative:exercicio_contas\\contapoupanca.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -75,183 +31,54 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "Program.cs",
-              "DocumentMoniker": "S:\\curso\\CsFundamentos1\\List\\Program.cs",
-              "RelativeDocumentMoniker": "List\\Program.cs",
-              "ToolTip": "S:\\curso\\CsFundamentos1\\List\\Program.cs",
-              "RelativeToolTip": "List\\Program.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAcAAAA",
+              "Title": "ContaInvestimento.cs",
+              "DocumentMoniker": "S:\\curso\\CsFundamentos1\\Exercicio_Contas\\ContaInvestimento.cs",
+              "RelativeDocumentMoniker": "Exercicio_Contas\\ContaInvestimento.cs",
+              "ToolTip": "S:\\curso\\CsFundamentos1\\Exercicio_Contas\\ContaInvestimento.cs",
+              "RelativeToolTip": "Exercicio_Contas\\ContaInvestimento.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-26T18:58:36.139Z",
+              "WhenOpened": "2024-10-28T17:37:22.103Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "ContaPoupanca.cs",
+              "DocumentMoniker": "S:\\curso\\CsFundamentos1\\Exercicio_Contas\\ContaPoupanca.cs",
+              "RelativeDocumentMoniker": "Exercicio_Contas\\ContaPoupanca.cs",
+              "ToolTip": "S:\\curso\\CsFundamentos1\\Exercicio_Contas\\ContaPoupanca.cs",
+              "RelativeToolTip": "Exercicio_Contas\\ContaPoupanca.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-28T17:35:28.094Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 2,
-              "Title": "Program.cs",
-              "DocumentMoniker": "S:\\curso\\CsFundamentos1\\ClasseMetodos\\Program.cs",
-              "RelativeDocumentMoniker": "ClasseMetodos\\Program.cs",
-              "ToolTip": "S:\\curso\\CsFundamentos1\\ClasseMetodos\\Program.cs",
-              "RelativeToolTip": "ClasseMetodos\\Program.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAEAAAA",
+              "Title": "Conta.cs",
+              "DocumentMoniker": "S:\\curso\\CsFundamentos1\\Exercicio_Contas\\Conta.cs",
+              "RelativeDocumentMoniker": "Exercicio_Contas\\Conta.cs",
+              "ToolTip": "S:\\curso\\CsFundamentos1\\Exercicio_Contas\\Conta.cs",
+              "RelativeToolTip": "Exercicio_Contas\\Conta.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAAAFAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-24T15:23:31.544Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "Program.cs",
-              "DocumentMoniker": "S:\\curso\\CsFundamentos1\\Constantes1\\Program.cs",
-              "RelativeDocumentMoniker": "Constantes1\\Program.cs",
-              "ToolTip": "S:\\curso\\CsFundamentos1\\Constantes1\\Program.cs",
-              "RelativeToolTip": "Constantes1\\Program.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-24T15:23:25.959Z"
+              "WhenOpened": "2024-10-28T17:33:20.955Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 1,
               "Title": "Program.cs",
-              "DocumentMoniker": "S:\\curso\\CsFundamentos1\\ArrayList\\Program.cs",
-              "RelativeDocumentMoniker": "ArrayList\\Program.cs",
-              "ToolTip": "S:\\curso\\CsFundamentos1\\ArrayList\\Program.cs",
-              "RelativeToolTip": "ArrayList\\Program.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAABYAAAAAAAAA",
+              "DocumentMoniker": "S:\\curso\\CsFundamentos1\\Exercicio_Contas\\Program.cs",
+              "RelativeDocumentMoniker": "Exercicio_Contas\\Program.cs",
+              "ToolTip": "S:\\curso\\CsFundamentos1\\Exercicio_Contas\\Program.cs",
+              "RelativeToolTip": "Exercicio_Contas\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-24T14:43:33.132Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "Program.cs",
-              "DocumentMoniker": "S:\\curso\\CsFundamentos1\\ExerciciosArrays\\Program.cs",
-              "RelativeDocumentMoniker": "ExerciciosArrays\\Program.cs",
-              "ToolTip": "S:\\curso\\CsFundamentos1\\ExerciciosArrays\\Program.cs",
-              "RelativeToolTip": "ExerciciosArrays\\Program.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAWAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-17T16:01:29.193Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 6,
-              "Title": "Program.cs",
-              "DocumentMoniker": "S:\\curso\\CsFundamentos1\\ArraysBidemensionais\\Program.cs",
-              "RelativeDocumentMoniker": "ArraysBidemensionais\\Program.cs",
-              "ToolTip": "S:\\curso\\CsFundamentos1\\ArraysBidemensionais\\Program.cs",
-              "RelativeToolTip": "ArraysBidemensionais\\Program.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAABYAAAAcAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-17T15:35:21.167Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 5,
-              "Title": "Program.cs",
-              "DocumentMoniker": "S:\\curso\\CsFundamentos1\\ExercicioArry\\Program.cs",
-              "RelativeDocumentMoniker": "ExercicioArry\\Program.cs",
-              "ToolTip": "S:\\curso\\CsFundamentos1\\ExercicioArry\\Program.cs",
-              "RelativeToolTip": "ExercicioArry\\Program.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAATAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-16T21:43:44.97Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 8,
-              "Title": "Program.cs",
-              "DocumentMoniker": "S:\\curso\\CsFundamentos1\\1Arrays\\Program.cs",
-              "RelativeDocumentMoniker": "1Arrays\\Program.cs",
-              "ToolTip": "S:\\curso\\CsFundamentos1\\1Arrays\\Program.cs",
-              "RelativeToolTip": "1Arrays\\Program.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAADAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-12T16:30:43.136Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 7,
-              "Title": "Program.cs",
-              "DocumentMoniker": "S:\\curso\\CsFundamentos1\\Arrays\\Program.cs",
-              "RelativeDocumentMoniker": "Arrays\\Program.cs",
-              "ToolTip": "S:\\curso\\CsFundamentos1\\Arrays\\Program.cs",
-              "RelativeToolTip": "Arrays\\Program.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAAAXAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-12T15:41:31.911Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 9,
-              "Title": "MinhaPartialClass.cs",
-              "DocumentMoniker": "S:\\curso\\CsFundamentos1\\PartialClass\\MinhaPartialClass.cs",
-              "RelativeDocumentMoniker": "PartialClass\\MinhaPartialClass.cs",
-              "ToolTip": "S:\\curso\\CsFundamentos1\\PartialClass\\MinhaPartialClass.cs",
-              "RelativeToolTip": "PartialClass\\MinhaPartialClass.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAdAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-11T15:16:59.536Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 12,
-              "Title": "MinhaPartialClassProps.cs",
-              "DocumentMoniker": "S:\\curso\\CsFundamentos1\\PartialClass\\MinhaPartialClassProps.cs",
-              "RelativeDocumentMoniker": "PartialClass\\MinhaPartialClassProps.cs",
-              "ToolTip": "S:\\curso\\CsFundamentos1\\PartialClass\\MinhaPartialClassProps.cs",
-              "RelativeToolTip": "PartialClass\\MinhaPartialClassProps.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAmAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-11T15:14:04.881Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 11,
-              "Title": "Program.cs",
-              "DocumentMoniker": "S:\\curso\\CsFundamentos1\\PartialClass\\Program.cs",
-              "RelativeDocumentMoniker": "PartialClass\\Program.cs",
-              "ToolTip": "S:\\curso\\CsFundamentos1\\PartialClass\\Program.cs",
-              "RelativeToolTip": "PartialClass\\Program.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAASAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-11T15:11:58.16Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 13,
-              "Title": "Program.cs",
-              "DocumentMoniker": "S:\\curso\\CsFundamentos1\\TratamentoErros\\Program.cs",
-              "RelativeDocumentMoniker": "TratamentoErros\\Program.cs",
-              "ToolTip": "S:\\curso\\CsFundamentos1\\TratamentoErros\\Program.cs",
-              "RelativeToolTip": "TratamentoErros\\Program.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAABgAAAAzAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-09T16:27:20.519Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 10,
-              "Title": "Program.cs",
-              "DocumentMoniker": "S:\\curso\\CsFundamentos1\\18Enumeration\\Program.cs",
-              "RelativeDocumentMoniker": "18Enumeration\\Program.cs",
-              "ToolTip": "S:\\curso\\CsFundamentos1\\18Enumeration\\Program.cs",
-              "RelativeToolTip": "18Enumeration\\Program.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAAQAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-05T16:24:48.591Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 14,
-              "Title": "Program.cs",
-              "DocumentMoniker": "S:\\curso\\CsFundamentos1\\Struct\\Program.cs",
-              "RelativeDocumentMoniker": "Struct\\Program.cs",
-              "ToolTip": "S:\\curso\\CsFundamentos1\\Struct\\Program.cs",
-              "RelativeToolTip": "Struct\\Program.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAIAAAATAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-03T16:17:31.225Z"
+              "WhenOpened": "2024-10-24T16:31:42.121Z",
+              "EditorCaption": ""
             }
           ]
         }

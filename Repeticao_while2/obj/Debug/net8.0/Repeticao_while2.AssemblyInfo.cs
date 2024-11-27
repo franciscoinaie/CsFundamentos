@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("Repeticao_while2")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+d599721d8ac8ebb5a848acf28e09ce4210b52833")]
 [assembly: System.Reflection.AssemblyProductAttribute("Repeticao_while2")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Repeticao_while2")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

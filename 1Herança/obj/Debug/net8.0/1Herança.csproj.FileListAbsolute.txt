@@ -1,0 +1,15 @@
+S:\curso\CsFundamentos1\1Herança\bin\Debug\net8.0\1Herança.exe
+S:\curso\CsFundamentos1\1Herança\bin\Debug\net8.0\1Herança.deps.json
+S:\curso\CsFundamentos1\1Herança\bin\Debug\net8.0\1Herança.runtimeconfig.json
+S:\curso\CsFundamentos1\1Herança\bin\Debug\net8.0\1Herança.dll
+S:\curso\CsFundamentos1\1Herança\bin\Debug\net8.0\1Herança.pdb
+S:\curso\CsFundamentos1\1Herança\obj\Debug\net8.0\1Herança.GeneratedMSBuildEditorConfig.editorconfig
+S:\curso\CsFundamentos1\1Herança\obj\Debug\net8.0\1Herança.AssemblyInfoInputs.cache
+S:\curso\CsFundamentos1\1Herança\obj\Debug\net8.0\1Herança.AssemblyInfo.cs
+S:\curso\CsFundamentos1\1Herança\obj\Debug\net8.0\1Herança.csproj.CoreCompileInputs.cache
+S:\curso\CsFundamentos1\1Herança\obj\Debug\net8.0\1Herança.sourcelink.json
+S:\curso\CsFundamentos1\1Herança\obj\Debug\net8.0\1Herança.dll
+S:\curso\CsFundamentos1\1Herança\obj\Debug\net8.0\refint\1Herança.dll
+S:\curso\CsFundamentos1\1Herança\obj\Debug\net8.0\1Herança.pdb
+S:\curso\CsFundamentos1\1Herança\obj\Debug\net8.0\1Herança.genruntimeconfig.cache
+S:\curso\CsFundamentos1\1Herança\obj\Debug\net8.0\ref\1Herança.dll
